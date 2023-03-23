@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/radhu-portfolio/static/css/main.9d56ce40.css",
+    "main.js": "/radhu-portfolio/static/js/main.8a10b39c.js",
+    "static/media/p4.png": "/radhu-portfolio/static/media/p4.f9b4543f380d15b8a5ad.png",
+    "static/media/p3.png": "/radhu-portfolio/static/media/p3.3a08180429d003335dd1.png",
+    "static/media/p2.png": "/radhu-portfolio/static/media/p2.b997a8bf917627729842.png",
+    "static/media/avatar.webp": "/radhu-portfolio/static/media/avatar.aa34508c2b56bb695cae.webp",
+    "static/media/service4.png": "/radhu-portfolio/static/media/service4.9c2e5bcf4f97d73e438e.png",
+    "static/media/p1.jpeg": "/radhu-portfolio/static/media/p1.fd92391f02e9b92a23d8.jpeg",
+    "static/media/test1.png": "/radhu-portfolio/static/media/test1.ae410d49aa08224e8fee.png",
+    "static/media/test2.png": "/radhu-portfolio/static/media/test2.4c46e48874f32f9347b5.png",
+    "static/media/service3.png": "/radhu-portfolio/static/media/service3.7d8ed821bb5bbf048687.png",
+    "static/media/test3.png": "/radhu-portfolio/static/media/test3.e2e024b7a44dda7722be.png",
+    "static/media/service2.webp": "/radhu-portfolio/static/media/service2.c52357c303ec3b476aa5.webp",
+    "static/media/mobile.svg": "/radhu-portfolio/static/media/mobile.892816c36000c2ec073fda36026fd1b6.svg",
+    "static/media/service1.svg": "/radhu-portfolio/static/media/service1.436f72057a77e5b2a88b8573843b5dff.svg",
+    "index.html": "/radhu-portfolio/index.html",
+    "main.9d56ce40.css.map": "/radhu-portfolio/static/css/main.9d56ce40.css.map",
+    "main.8a10b39c.js.map": "/radhu-portfolio/static/js/main.8a10b39c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d56ce40.css",
+    "static/js/main.8a10b39c.js"
+  ]
+}
