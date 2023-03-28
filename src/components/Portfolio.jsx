@@ -44,23 +44,7 @@ const Portfolio = () => {
             github:"https://github.com/Radhu-254/adachi-restaurant.git",
             demo:"https://adachi-restaurant-radhukalathiya1-gmailcom.vercel.app/"
 
-        },
-        {
-            id:5,
-            image:p1,
-            title:"Best App",
-            github:"https://google.com",
-            demo:"https://nodejs.org/en/"
-
-        },
-        {
-            id:6,
-            image:p1,
-            title:"Best App",
-            github:"https://google.com",
-            demo:"https://nodejs.org/en/"
-
-        },
+        }
     ]
 
 
