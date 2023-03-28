@@ -17,7 +17,7 @@ const Portfolio = () => {
             id:1,
             image:p1,
             title:"Weather App",
-            github:"hhttps://github.com/Radhu-254/weather-tailwind-react.git",
+            github:"https://github.com/Radhu-254/weather-tailwind-react.git",
             demo:"https://weather-tailwind-react-radhukalathiya1-gmailcom.vercel.app/"
 
         },
