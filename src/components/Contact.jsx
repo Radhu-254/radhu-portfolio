@@ -19,13 +19,13 @@ const Contact = () => {
             id:3,
             link:"https://linkedin.com",
             icon: <UilLinkedin/>
-        }  
+        }
 
     ];
 
- 
+
   return (
-    
+
 
     <Section
         title="Contact 📞"
@@ -42,10 +42,10 @@ const Contact = () => {
         </div>
         <div className='flex w-full items-center justify-evenly text-3xl pt-3'>
             {SOCIAL.map(({id,link,icon})=>(
-                <a 
-                    href={link} 
-                    target="_blank" 
-                    rel="noopener noreferrer" 
+                <a
+                    href={link}
+                    target="_blank"
+                    rel="noopener noreferrer"
                     className="duration-200 ease-in-out hover:text-teal-300"
                 >
                     {icon}
@@ -59,43 +59,43 @@ const Contact = () => {
                 <div className='gap-4 w-full'>
 
                     <div className='flex flex-col my-2'>
-                       <label className="capitalize text-sm py-2 font-extralight"> 
+                       <label className="capitalize text-sm py-2 font-extralight">
                           name
                         </label>
-                        <input 
-                           type="text" 
-                           name="name" 
+                        <input
+                           type="text"
+                           name="name"
                            className='border-2 rounded-lg p-3 flex focus:outline-none
                             border-gray-400 dark:bg-gray-900 dark:text-white'
                         />
                     </div>
 
                     <div className='flex flex-col my-2'>
-                       <label className="capitalize text-sm py-2 font-extralight"> 
+                       <label className="capitalize text-sm py-2 font-extralight">
                           phone
                         </label>
-                        <input 
-                           type="text" 
-                           name="phone" 
+                        <input
+                           type="text"
+                           name="phone"
                            className='border-2 rounded-lg p-3 flex focus:outline-none
                             border-gray-400 dark:bg-gray-900 dark:text-white'
                         />
                     </div>
 
                     <div className='flex flex-col my-2'>
-                       <label className="capitalize text-sm py-2 font-extralight"> 
+                       <label className="capitalize text-sm py-2 font-extralight">
                           email
                         </label>
-                        <input 
-                           type="text" 
-                           name="email" 
+                        <input
+                           type="text"
+                           name="email"
                            className='border-2 rounded-lg p-3 flex focus:outline-none
                             border-gray-400 dark:bg-gray-900 dark:text-white'
                         />
                     </div>
 
                     <div className='flex flex-col my-2'>
-                       <label className="capitalize text-sm py-2 font-extralight"> 
+                       <label className="capitalize text-sm py-2 font-extralight">
                           message
                         </label>
                         <textarea
@@ -104,8 +104,8 @@ const Contact = () => {
                           className='border-2 rounded-lg p-3 flex focus:outline-none
                             border-gray-400 dark:bg-gray-900 dark:text-white resize-none'
                         ></textarea>
-                        
-                       
+
+
                     </div>
 
                 </div>
@@ -129,4 +129,4 @@ const Contact = () => {
   )
 }
 
-export default Contact 
+export default Contact

@@ -7,6 +7,7 @@ import p1 from "../assets/p1.jpeg";
 import p2 from "../assets/p2.png";
 import p3 from "../assets/p3.png";
 import p4 from "../assets/p4.png";
+import p5 from "../assets/p5.png";
 
 
 
@@ -43,6 +44,14 @@ const Portfolio = () => {
             title:"Japanese Restaurant Website ",
             github:"https://github.com/Radhu-254/adachi-restaurant.git",
             demo:"https://adachi-restaurant-radhukalathiya1-gmailcom.vercel.app/"
+
+        },
+        {
+            id:5,
+            image:p5,
+            title:"An Artist's Portfolio",
+            github:"https://github.com/Radhu-254/artist-portfolio.git",
+            demo:"https://artist-portfolio-radhukalathiya1-gmailcom.vercel.app"
 
         }
     ]
