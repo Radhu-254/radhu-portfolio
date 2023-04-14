@@ -19,7 +19,7 @@ const Portfolio = () => {
             id:1,
             image:p1,
             title:"Weather App",
-            github:"https://github.com/Radhu-254/weather-tailwind-react.git",
+            github:"https://google.com",
             demo:"https://weather-tailwind-react-radhukalathiya1-gmailcom.vercel.app/"
 
         },
@@ -27,7 +27,7 @@ const Portfolio = () => {
             id:2,
             image:p2,
             title:"Odan Infotech Website",
-            github:"https://github.com/Radhu-254/odan-dark-mode-app.git",
+            github:"https://google.com",
             demo:"https://odan-dark-mode-app-radhukalathiya1-gmailcom.vercel.app/"
 
         },
@@ -35,7 +35,7 @@ const Portfolio = () => {
             id:3,
             image:p3,
             title:"Harry Potter Website",
-            github:"https://github.com/Radhu-254/harry-potter.git",
+            github:"https://google.com",
             demo:"https://harry-potter-xyz-radhukalathiya1-gmailcom.vercel.app/"
 
         },
@@ -43,7 +43,7 @@ const Portfolio = () => {
             id:4,
             image:p4,
             title:"Japanese Restaurant Website ",
-            github:"https://github.com/Radhu-254/adachi-restaurant.git",
+            github:"https://google.com",
             demo:"https://adachi-restaurant-radhukalathiya1-gmailcom.vercel.app/"
 
         },
@@ -51,15 +51,15 @@ const Portfolio = () => {
             id:5,
             image:p5,
             title:"An Artist's Portfolio",
-            github:"https://github.com/Radhu-254/artist-portfolio.git",
+            github:"https://google.com",
             demo:"https://artist-portfolio-radhukalathiya1-gmailcom.vercel.app"
 
         },
            {
-            id:5,
+            id:6,
             image:p6,
             title:"Broc N Roll ",
-            github:"https://github.com/Radhu-254/food_blog.git",
+            github:"https://google.com",
             demo:"https://food-blog-git-main-radhukalathiya1-gmailcom.vercel.app"
 
         }
