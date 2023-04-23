@@ -9,6 +9,7 @@ import p3 from "../assets/p3.png";
 import p4 from "../assets/p4.png";
 import p5 from "../assets/p5.png";
 import p6 from "../assets/p6.png";
+import p7 from "../assets/p7.png";
 
 
 
@@ -50,7 +51,7 @@ const Portfolio = () => {
         {
             id:5,
             image:p5,
-            title:"An Artist's Portfolio",
+            title:"An Artist's Portfolio Website",
             github:"https://google.com",
             demo:"https://artist-portfolio-radhukalathiya1-gmailcom.vercel.app"
 
@@ -61,8 +62,16 @@ const Portfolio = () => {
             title:"Broc N Roll ",
             github:"https://google.com",
             demo:"https://food-blog-git-main-radhukalathiya1-gmailcom.vercel.app"
+        },
+        {
+            id:7,
+            image:p7,
+            title:"DogGo Grooming Website",
+            github:"https://google.com",
+            demo:"https://doggo-grooming-radhukalathiya1-gmailcom.vercel.app"
 
         }
+
     ]
 
 
